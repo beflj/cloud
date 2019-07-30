@@ -155,7 +155,7 @@ A cloud consumer represents a person or organization that maintains a business r
 
 Her er organisationen "det offentlige" eller "statslige myndigheder" og DIGST har rollen.
 
-Note: (Kan vi finde bedre kilde en [[FORM]]?)
+Note: (Kan vi finde bedre kilde en [[FORM]](06.38.10)?)
 
 <blockquote cite="http://www.form-online.dk/opgavenoegle/06/#06.38.10">
 De overordnede rammer for digitaliseringen af samfundet, herunder tværgående arkitektur, offentlige data og it-standarder [[FORM]]</blockquote>
